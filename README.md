@@ -12,3 +12,4 @@ Theoretische Informatik 1: <a href="https://github.com/Stahrick/Anky-Sets/blob/m
 <hr>
 Semester 2<br>
 Analysis: <a href="https://github.com/Stahrick/Anky-Sets/blob/main/Analysis/Analysis.apkg" download>Download</a><br>
+BWL: <a href="https://github.com/Stahrick/Anky-Sets/blob/main/BWL/BWL.apkg" download>Download</a><br>
