@@ -13,3 +13,6 @@ Theoretische Informatik 1: <a href="https://github.com/Stahrick/Anky-Sets/raw/ma
 Semester 2<br>
 Analysis: <a href="https://github.com/Stahrick/Anky-Sets/raw/main/Analysis/Analysis.apkg" download>Download</a><br>
 BWL: <a href="https://github.com/Stahrick/Anky-Sets/raw/main/BWL/BWL.apkg" download>Download</a><br>
+<hr>
+Semester 3<br>
+Betriebssysteme: 
