@@ -15,4 +15,5 @@ Analysis: <a href="https://github.com/Stahrick/Anky-Sets/raw/main/Analysis/Analy
 BWL: <a href="https://github.com/Stahrick/Anky-Sets/raw/main/BWL/BWL.apkg" download>Download</a><br>
 <hr>
 Semester 3<br>
-Betriebssysteme: 
+Betriebssysteme: <a href="https://github.com/Stahrick/Anky-Sets/raw/main/Betriebssysteme/Betriebssysteme.apkg" download>Download</a><br>
+Social Engineering: <a href="https://github.com/Stahrick/Anky-Sets/raw/main/Social%20Engineering/Social%20Engineering.apkg" download>Download</a><br>
